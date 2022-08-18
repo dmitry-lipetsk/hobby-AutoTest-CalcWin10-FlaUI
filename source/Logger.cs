@@ -7,7 +7,7 @@ namespace MyTests{
 ////////////////////////////////////////////////////////////////////////////////
 //class Loggerger
 
-class Logger
+sealed class Logger
 {
  public void Send(string formatStr,params object?[] args)
  {

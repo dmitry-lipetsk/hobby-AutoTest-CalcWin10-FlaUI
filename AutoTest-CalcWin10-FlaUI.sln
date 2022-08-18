@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoTest-CalcWin10-FlaUI", "AutoTest-CalcWin10-FlaUI.csproj", "{1F0FF912-1759-4F11-9C5D-E7AAE6139167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0FF912-1759-4F11-9C5D-E7AAE6139167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0FF912-1759-4F11-9C5D-E7AAE6139167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0FF912-1759-4F11-9C5D-E7AAE6139167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0FF912-1759-4F11-9C5D-E7AAE6139167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183E69BF-EC0A-47D0-ACAC-FB0E6CA77AC4}
+	EndGlobalSection
+EndGlobal
